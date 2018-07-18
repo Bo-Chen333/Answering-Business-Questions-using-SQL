@@ -13,4 +13,4 @@ Selecting Albums to Purchase(Step 2)
 ----------------------------------------------------
 1. Write a query that returns each genre, with the number of tracks sold in absolute numbers and in percentages.<br>
 2. Create a plot to show this data.<br>
-3.Write a paragraph that interprets the data and makes a recommendation for the three artists whose albums we should purchase for the store, based on sales of tracks from their genres.<br>
+3. Write a paragraph that interprets the data and makes a recommendation for the three artists whose albums we should purchase for the store, based on sales of tracks from their genres.<br>
