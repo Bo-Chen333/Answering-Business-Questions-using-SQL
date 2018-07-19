@@ -20,3 +20,13 @@ Analyzing Employee Sales Performance(Step 3)
 1. Write a query that finds the total dollar amount of sales assigned to each sales support agent within the company. Add any extra attributes for that employee that you find are relevant to the analysis.<br>
 2. Create a plot of the results of your query.<br>
 3. Write a short statement describing your results, and providing a possible interpretation.<br>
+
+Analyzing Sales by Country(Step 4)
+----------------------------------------------------
+1. Write a query that collates data on purchases from different countries. For each country, include:<br>
+* total number of customers
+* total value of sales
+* average value of sales per customer
+* average order value
+2. Where a country has only one customer, collect them into an "Other" group.<br>
+3. The results should be sorted by the total sales from highest to lowest, with the "Other" group at the very bottom.<br>
