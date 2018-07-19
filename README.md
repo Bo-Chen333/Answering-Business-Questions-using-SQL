@@ -14,3 +14,9 @@ Selecting Albums to Purchase(Step 2)
 1. Write a query that returns each genre, with the number of tracks sold in absolute numbers and in percentages.<br>
 2. Create a plot to show this data.<br>
 3. Write a paragraph that interprets the data and makes a recommendation for the three artists whose albums we should purchase for the store, based on sales of tracks from their genres.<br>
+
+Analyzing Employee Sales Performance(Step 3)
+----------------------------------------------------
+1. Write a query that finds the total dollar amount of sales assigned to each sales support agent within the company. Add any extra attributes for that employee that you find are relevant to the analysis.<br>
+2. Create a plot of the results of your query.<br>
+3. Write a short statement describing your results, and providing a possible interpretation.<br>
