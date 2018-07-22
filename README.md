@@ -30,3 +30,16 @@ Analyzing Sales by Country(Step 4)
 * average order value
 2. Where a country has only one customer, collect them into an "Other" group.<br>
 3. The results should be sorted by the total sales from highest to lowest, with the "Other" group at the very bottom.<br>
+
+Visualizing Sales by Country(Step 5)
+----------------------------------------------------
+For each dimension, create a visualization which demonstrates the data we collated in the previous step.<br>
+* You should decide whether the "Other" group is relevant to your analysis and make decisions on where to include it (if anywhere) in your visualizations.
+Write a few sentences interpreting your data and visualizations, and make one or more recommendations to the marketing team on which countries have potential for growth.<br>
+
+Albums vs Individual Tracks(Step 6)
+-----------------------------------------------------
+Write a query that categorizes each invoice as either an album purchase or not, and calculates the following summary statistics:<br>
+* Number of invoices
+* Percentage of invoices
+Write one to two sentences explaining your findings, and making a prospective recommendation on whether the Chinook store should continue to buy full albums from record companies<br>
